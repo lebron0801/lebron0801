@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm ZhuLei (lebron) .dizhi
+I'm ZhuLei (lebron) .
 
 - 🔭 I’m currently working on LQ
 - 🌱 I’m currently learning on javascript
